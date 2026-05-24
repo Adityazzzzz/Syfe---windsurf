@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: 'http://localhost:8080/api/:path*',
+        destination: 'https://syfe-finance-platform-adityazzzz.onrender.com/api/:path*',
       },
     ];
   },
